@@ -1,7 +1,5 @@
 #include "main.h"
 #include <stdlib.h>
-#include <limits.h>
-#include <stdio.h>
 
 /**
  * check_for_specifiers - checks if there is a valid format specifier
